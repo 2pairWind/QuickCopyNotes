@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNotesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_btn_text">Save</string>
+    <string name="note_hint_text">Enter note here</string>
+    <string name="note_title_hint_text">Enter note title</string>
+    <string name="problem_saving_in_db_txt">Sorry, some problem with saving in database :( Please, try again.</string>
+    <string name="fill_all_fields_txt">Please, fill all fields!</string>
+    <string name="note_edit_text">edit</string>
+    <string name="note_delete_text">delete</string>
+    <string name="copied_note_prefix">Note</string>
+    <string name="copied_note_postfix">copied</string>
+</resources>
